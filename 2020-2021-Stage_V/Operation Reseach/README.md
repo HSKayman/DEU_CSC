@@ -1,1 +1,0 @@
-Huangarian method and transportation simplex method will be added!
